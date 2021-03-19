@@ -58,6 +58,15 @@ a {
     text-decoration: none;
 }
 
+table {
+    width:100%;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
+}
+
 blockquote {
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
