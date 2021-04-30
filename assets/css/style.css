@@ -63,8 +63,8 @@ table {
 }
 
 table img {
-    width: 75px;
-    height: 75px;
+    width: 100px;
+    height: 100px;
     min-height: 75px;
     min-width: 75px;
     float: right;
